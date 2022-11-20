@@ -1,1 +1,3 @@
-# deep-thoughts
+# deep-thought
+
+##Code is Life
